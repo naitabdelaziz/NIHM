@@ -4,8 +4,7 @@ NIHM
 ## NAIT ABDELAZIZ Yanis
 
 ### Téléchargement des sources du TP
-
-
+https://github.com/naitabdelaziz/NIHM/blob/master/tp_nihm_visu_naitabdelaziz.zip
 
 ### Ce qui a été fait
 
@@ -13,9 +12,9 @@ NIHM
 
 ### Comment utiliser l'application ?
 
-  Il faut décompresser l'archive
-  Ouvrir le logiciel processing, File->Open->france.pde
-	Appuyer sur le bouton play
+  Il faut décompresser l'archive tp_nihm_visu_naitabdelaziz
+  Ouvrir le logiciel processing, File->Open->france.pde dans le dossier france
+  Appuyer sur le bouton play
   Lorsque la souris est sur une ville, son nom s'affiche dans une bulle et le cercle correspondant à sa densité devient rouge.
   Lorsqu'on appuie sur la touche "+" ou "-", le nombre de villes affichées varie selon la densité de population minimale à afficher
 
