@@ -1,6 +1,4 @@
-NIHM
-====
-# TP NIHM
+# TP NIHM VISU
 ## NAIT ABDELAZIZ Yanis
 
 ### Téléchargement des sources du TP
